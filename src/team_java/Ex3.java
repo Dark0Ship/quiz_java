@@ -15,7 +15,7 @@ public class Ex3
 			sum = sum + (i * flag_sign);
 		}
 		System.out.println();
-		System.out.print("°á°ú: ");
+		System.out.print("Result: ");
 		System.out.println(sum);
 	}
 }
